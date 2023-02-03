@@ -32,5 +32,4 @@ npm run build
 - [x] List todos
 - [x] Add a new todo
 - [x] Delete a todo
-- [] Completing a too
-- [] Filtering todos by status
+- [x] Completing a too
